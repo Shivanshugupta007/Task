@@ -1,0 +1,13 @@
+<%- include("header") -%>
+
+<h1>Temprature Of <%= place %> is ... </h1>
+
+<h1><%= temp %> &deg C</h1>
+
+<form action="/back" method="POST">
+    <button type="submit" class="enter">Search For New City</button>
+</form>
+
+
+
+<%- include("footer") -%>

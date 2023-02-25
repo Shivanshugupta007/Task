@@ -1,0 +1,24 @@
+body{
+    background-color: wheat;
+    text-align: center;
+}
+
+h1{
+    font-size: 5vw;
+    color: #181D31;
+}
+
+.poster{
+    font-size: 4vw;
+    margin: 5% 0 5% 0;
+}
+
+.enter{
+    font-size: 2vw;
+}
+
+#city{
+    width: 20%;
+    height: 5vh;
+    margin: 5% 0 5% 0;
+}
